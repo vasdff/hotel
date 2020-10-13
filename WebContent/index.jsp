@@ -5,3 +5,4 @@
 	//转向前台首页
 	response.sendRedirect("home/index");
 %>
+<%--2222222222--%>
